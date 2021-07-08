@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "strictNullChecks": false,
+    "target": "es2015",
+    "module": "commonjs",
+    "baseUrl": ".",
+    "outDir": "dist",
+    "types": ["node", "@types/adobexd"]
+  }
+}
