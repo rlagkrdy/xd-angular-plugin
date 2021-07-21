@@ -49,3 +49,4 @@ Thumbs.db
 /projects/app/plugins/
 /projects/app/www/
 /.firebase/
+/dist/
